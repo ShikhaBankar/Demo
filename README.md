@@ -1,2 +1,1 @@
-# Demo
-This is my first git repository.
+I am Shikha Bankar, a passionate and curious learner from the AIML(Artificial Intelligence and Machine Learning) branch, With a curious mind and a love for innovation, I am exploring the limitless potential of AI to create smarter solutions. I am dedicated to learning, growing, and shaping the future through technology.
